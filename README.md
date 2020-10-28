@@ -42,5 +42,5 @@ Link to them are available in the begining of the file.
 <br/> 
 **So,**
 
-<img src="https://media.giphy.com/media/RkQsVpV6scWFowMs4B/giphy.gif" height="150" width="175">
+<img src="https://tenor.com/9zuc.gif" height="150" width="175">
 
