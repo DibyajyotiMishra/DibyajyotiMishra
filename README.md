@@ -9,7 +9,7 @@ I am a full stack developer specialized at MERN tech stack and Flutter. I also d
 I also spend a lot of time teaching myself newer teach and try to experiment by building UIs.
 <br/>
 <br/>
-A self-taught programmer, I love helping others in clearing off their bugs. <img src="https://media.giphy.com/media/ZrCUYZjwrfeCs/giphy.gif" width="50"  
+A self-taught programmer, I love helping others in clearing off their bugs. <img src="https://media.giphy.com/media/ZrCUYZjwrfeCs/giphy.gif" width="50">  
 **P.S.: I do ask people whenever I fail to debug some codes**. 😬
 
 I have been freelancing for over a year now, starting off in early 2019s and has a handful of projects to showcase in portfolio whose work is still on progress.
