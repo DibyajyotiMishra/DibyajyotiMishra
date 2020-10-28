@@ -5,13 +5,13 @@
 
 <h1> <strong> I am Dibyajyoti Mishra. </strong> </h1>
 <br/>
-<h3> Thanks for finding time to visit my profile. 🙏 </h3>
-<br/>
 <a href="https://www.instagram.com/_p.r.i.n.c.e.m.i.s.h.r.a_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="50"> <a>
 <a href="https://www.linkedin.com/in/dibyajyoti-mishra-a795b71a3/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" width="50"> <a>
 <a href="mailto:dibyajyotimishra14@gmail.com"><img src="https://economictimes.indiatimes.com/photo/68666283.cms" width="50" height="60"> <a>
  <br/>
  <br/>
+ <h3> Thanks for finding time to visit my profile. 🙏 </h3>
+<br/>
 I am a full stack developer specialized at MERN tech stack and Flutter. I also do some part-time designing- UI/UX designing.. ✍ 
 
 I also spend a lot of time teaching myself newer tech and try to experiment by building different UIs.
