@@ -10,13 +10,11 @@
 <a href="mailto:dibyajyotimishra14@gmail.com"><img src="https://economictimes.indiatimes.com/photo/68666283.cms" width="50" height="60"> <a>
  <br/>
  <br/>
- <br/>
-
-😄 Pronouns: **He/Him**
-
 I am a full stack developer specialized at MERN tech stack and Flutter. I also do some part-time designing- UI/UX designing.. ✍ 
 
-I also spend a lot of time teaching myself newer teach and try to experiment by building UIs.
+I also spend a lot of time teaching myself newer tech and try to experiment by building different UIs.
+
+😄 Pronouns: **He/Him**
 <br/>
 <br/>
 A self-taught programmer, I love helping others in clearing off their bugs.
