@@ -1,7 +1,7 @@
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media.giphy.com/media/l0FF56cexcW2JAXCJj/giphy.gif" height="400" width="400">
 
-<h2>How you doin'? Hope you are doin' great. ✌ </h2>
+<h2>How you doin'? Hope you're doin' great. ✌ </h2>
 
 <h1> <strong> I am Dibyajyoti Mishra. </strong> </h1>
 <br/>
