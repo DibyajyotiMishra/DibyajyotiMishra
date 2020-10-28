@@ -1,10 +1,11 @@
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media.giphy.com/media/l0FF56cexcW2JAXCJj/giphy.gif" height="400" width="400">
 
-<h2>How you doin'? Hope you are doing great. ✌ </h2>
+<h2>How you doin'? Hope you are doin' great. ✌ </h2>
 
 <h1> <strong> I am Dibyajyoti Mishra. </strong> Thanks for finding time to visit my profile. 🙏 </h1>
 <br/>
+<a href =""
 
 😄 Pronouns: **He/Him**
 
@@ -40,5 +41,5 @@ Link to them are available in the begging of the file.
 <br/> 
 **So,**
 
-<img src="https://media.giphy.com/media/cKtpmi0Eec5VAi4Bsq/giphy.gif" height="100" width="95" >
+<img src="https://media.giphy.com/media/fSvPfTFJ0UbCml3g6D/giphy.gif" height="100" width="95" >
 
