@@ -30,7 +30,7 @@ I am a CS undergrad and love to spend quality time in sharpening my skills.
 **🔭 I’m currently working on:**
 - Backend Systems built on Node + Express.
 - Databases like MongoDB, PogstreSQL, MySQL.
-- Frontend frameworks like React JS, Flutter, Next JS.
+- Frontend frameworks like React JS, Flutter, Next JS, Gatsby JS.
 
 **🌱 I’m currently learning:**
 - Django
