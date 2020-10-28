@@ -1,4 +1,4 @@
-### <img src="https://tenor.com/view/animated-hi-gif-10123191" width="100" height="100"> Welcome..
+### <img src="https://media.giphy.com/media/l0FF56cexcW2JAXCJj/giphy.gif" width="100" height="100"> Welcome..
 
 <h2> Hey, How you doin'? Hope you are doing great. </h2>
 
