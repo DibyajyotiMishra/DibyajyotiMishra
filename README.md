@@ -6,7 +6,7 @@
 
 I am a full stack developer specialized at MERN tech stack and Flutter. I also do some part-time designing- UI/UX designing.. ✍ 
 
-I also spend a lot of time teaching myself newer teach and try to experiment by building UIs.  <img src="https://media.giphy.com/media/rpf0Du8NasK6Q/giphy.gif" width="20" height="20">
+I also spend a lot of time teaching myself newer teach and try to experiment by building UIs.  <img src="https://media.giphy.com/media/rpf0Du8NasK6Q/giphy.gif" width="50" height="70"> <br/>
 A self-taught programmer, I love helping others in clearing off their bugs. 
 **P.S.: I do ask people whenever I fail to debug some codes**. 😬
 
