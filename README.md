@@ -28,8 +28,6 @@ I have been freelancing for over a year now, starting off in early 2019s and has
 I am a CS undergrad and love to spend time quality time in sharpening my skills.
 
 <img src="https://media.giphy.com/media/C3kuUBZHNYOje/giphy.gif" width="200" height="220"> <h3> <strong>A little bit more about me...</strong> </h3>
-<br/>
-<br/>
 
 **🔭 I’m currently working on:**
 - Backend Systems built on Node + Express.
