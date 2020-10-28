@@ -1,13 +1,10 @@
 
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media.giphy.com/media/l0FF56cexcW2JAXCJj/giphy.gif" height="400" width="400">
 
 <h2>How you doin'? Hope you are doing great. ✌ </h2>
 
 <h1> <strong> I am Dibyajyoti Mishra. </strong> Thanks for finding time to visit my profile. 🙏 </h1>
 <br/>
-
-<a href="https://www.instagram.com/_p.r.i.n.c.e.m.i.s.h.r.a_/"><i class="fa fa-instagram" aria-hidden="true"></i> <a>
-
 
 😄 Pronouns: **He/Him**
 
@@ -42,5 +39,6 @@ I am a CS undergrad and love to spend time quality time in sharpening my skills.
 Link to them are available in the begging of the file. 
 <br/> 
 **So,**
+
 <img src="https://media.giphy.com/media/cKtpmi0Eec5VAi4Bsq/giphy.gif" height="100" width="95" >
 
