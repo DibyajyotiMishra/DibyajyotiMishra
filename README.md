@@ -42,5 +42,7 @@ Link to them are available in the begining of the file.
 <br/> 
 **So,**
 
-<img src="https://tenor.com/9zuc.gif" height="150" width="175">
+<img src="" height="150" width="175">
+
+<div class="tenor-gif-embed" data-postid="14635350" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/managersrl-enjoymanager-manager-academy-academy-swipe-up-gif-14635350">Managersrl Enjoymanager GIF</a> from <a href="https://tenor.com/search/managersrl-gifs">Managersrl GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>" 
 
