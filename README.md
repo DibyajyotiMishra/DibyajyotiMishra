@@ -46,5 +46,5 @@ Link to them are available in the begging of the file.
 <br/> 
 **So,**
 
-<img src="https://media.giphy.com/media/MY15rWOHbmfsAwhBBE/giphy.gif" height="200" width="195" >
+<img src="https://media.giphy.com/media/MY15rWOHbmfsAwhBBE/giphy.gif" height="100" width="95" >
 
