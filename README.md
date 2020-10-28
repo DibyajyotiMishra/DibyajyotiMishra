@@ -3,7 +3,9 @@
 
 <h2>How you doin'? Hope you are doin' great. ✌ </h2>
 
-<h1> <strong> I am Dibyajyoti Mishra. </strong> Thanks for finding time to visit my profile. 🙏 </h1>
+<h1> <strong> I am Dibyajyoti Mishra. </strong> </h1>
+<br/>
+<h3> Thanks for finding time to visit my profile. 🙏 </h3>
 <br/>
 <a href="https://www.instagram.com/_p.r.i.n.c.e.m.i.s.h.r.a_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="50"> <a>
 <a href="https://www.linkedin.com/in/dibyajyoti-mishra-a795b71a3/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" width="50"> <a>
