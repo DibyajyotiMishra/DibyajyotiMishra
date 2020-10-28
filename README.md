@@ -23,7 +23,7 @@ A self-taught programmer, I love helping others in clearing off their bugs.
 
 I have been freelancing for over a year now, starting off in early 2019s and has a handful of projects to showcase in portfolio whose work is still on progress.
 
-I am a CS undergrad and love to spend time quality time in sharpening my skills.
+I am a CS undergrad and love to spend quality time in sharpening my skills.
 
 <img src="https://media.giphy.com/media/C3kuUBZHNYOje/giphy.gif" width="200" height="220"> <h3> <strong>A little bit more about me...</strong> </h3>
 
