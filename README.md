@@ -42,6 +42,6 @@ Link to them are available in the begining of the file.
 <br/> 
 **So,**
 
-<img src="https://media.giphy.com/media/vwQt6GJyCUzUG1fsxA/giphy.gif" height="150" width="175">
+<img src="https://media.giphy.com/media/1gCRLZBWo2w4Jc66DT/giphy.gif" height="150" width="175">
 
 
