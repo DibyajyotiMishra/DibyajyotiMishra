@@ -42,7 +42,7 @@ I am a CS undergrad and love to spend time quality time in sharpening my skills.
 - CI (in detail)
 
 **I love talking to diffrerent people. So, if you feel like chit-chatting with me; Drop a 'Hi' at my mailbox,linkedIn or instagram. I will be very happy to connect with you.**
-Link to them are available in the begging of the file. 
+Link to them are available in the begining of the file. 
 <br/> 
 **So,**
 
