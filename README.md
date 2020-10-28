@@ -5,7 +5,7 @@
 
 <h1> <strong> I am Dibyajyoti Mishra. </strong> Thanks for finding time to visit my profile. 🙏 </h1>
 <br/>
-<a href =""
+<a href ="">
 
 😄 Pronouns: **He/Him**
 
@@ -41,5 +41,5 @@ Link to them are available in the begging of the file.
 <br/> 
 **So,**
 
-<img src="https://media.giphy.com/media/fSvPfTFJ0UbCml3g6D/giphy.gif" height="100" width="95" >
+<img src="https://media.giphy.com/media/MY15rWOHbmfsAwhBBE/giphy.gif" height="100" width="95" >
 
