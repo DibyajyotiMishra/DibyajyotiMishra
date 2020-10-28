@@ -1,4 +1,16 @@
-### Hi there 👋
+### <img src="https://tenor.com/view/animated-hi-gif-10123191" width="100" height="100"> Welcome..
+
+<h2> Hey, How you doin'? Hope you are doing great. </h2>
+
+  ✌
+
+I am a full stack developer specialized at MERN tech stack and Fluuter. I also do some part-time designing- UI/UX designing.. 
+
+I also spend a lot of time teaching myself Flutter and try to experiment by building UIs. A self-taught programmer, I love helping others in clearing off their bugs.
+**P.S.: I do ask people whenever I fail to debug some codes**.
+
+I have been freelancing for over a year now, starting off in early 2019s and has a handful of projects to showcase in portfolio whose work is still on progress.
+
 
 <!--
 **DibyajyotiMishra/DibyajyotiMishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
