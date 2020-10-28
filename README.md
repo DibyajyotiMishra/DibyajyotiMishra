@@ -5,7 +5,7 @@
 
 <h1> <strong> I am Dibyajyoti Mishra. </strong> Thanks for finding time to visit my profile. 🙏 </h1>
 <br/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="50">
+<a href="https://www.instagram.com/_p.r.i.n.c.e.m.i.s.h.r.a_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="50"> <a>
 
 😄 Pronouns: **He/Him**
 
