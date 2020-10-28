@@ -12,7 +12,7 @@
  <br/>
  <h3> Thanks for finding time to visit my profile. 🙏 </h3>
 <br/>
-I am a **full stack developer specialized at MERN tech stack and Flutter**. I also do some part-time designing- UI/UX designing.. ✍ 
+I am a <strong>full stack developer specialized at MERN tech stack and Flutter</strong>. I also do some part-time designing- UI/UX designing.. ✍ 
 
 I also spend a lot of time teaching myself newer tech and try to experiment by building different UIs.
 
