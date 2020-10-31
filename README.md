@@ -37,10 +37,17 @@ I am a CS undergrad and love to spend quality time in sharpening my skills.
 - Databases like MongoDB, PogstreSQL, MySQL.
 - Frontend frameworks like React JS, Flutter, Next JS, Gatsby JS.
 
+<br/>
+<br/>
+<br/>
+
 **🌱 I’m currently learning:**
 - Django
 - Swift
 - CI (in detail)
+
+<br/>
+<br/>
 
 **I love talking to diffrerent people. So, if you feel like chit-chatting with me; Drop a 'Hi' at my mailbox,linkedIn or instagram. I will be very happy to connect with you.**
 Link to them are available in the begining of the file. 
