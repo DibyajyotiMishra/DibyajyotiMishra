@@ -29,7 +29,7 @@ I am a CS undergrad and love to spend quality time in sharpening my skills.
 <br/>
 <br/>
 <br/>
-<img align="right" src="https://media.giphy.com/media/C3kuUBZHNYOje/giphy.gif" width="100">
+<img align="right" src="https://media.giphy.com/media/C3kuUBZHNYOje/giphy.gif" width="200">
 <h3> <strong>A little bit more about me...</strong> </h3>
 
 **🔭 I’m currently working on:**
