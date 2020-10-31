@@ -26,9 +26,11 @@ A self-taught programmer, I love helping others in clearing off their bugs.
 I have been <strong>freelancing</strong> for over a year now, starting off in early 2019s and has a handful of projects to showcase in portfolio whose work is still on progress.
 
 I am a CS undergrad and love to spend quality time in sharpening my skills.
-
+<br/>
+<br/>
+<br/>
+<img align="right" src="https://media.giphy.com/media/C3kuUBZHNYOje/giphy.gif" width="100">
 <h3> <strong>A little bit more about me...</strong> </h3>
-<img align="right" src="https://media.giphy.com/media/C3kuUBZHNYOje/giphy.gif" width="200">
 
 **🔭 I’m currently working on:**
 - Backend Systems built on Node + Express.
