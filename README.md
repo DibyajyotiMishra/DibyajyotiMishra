@@ -27,7 +27,8 @@ I have been <strong>freelancing</strong> for over a year now, starting off in ea
 
 I am a CS undergrad and love to spend quality time in sharpening my skills.
 
-<img src="https://media.giphy.com/media/C3kuUBZHNYOje/giphy.gif" width="200" height="220"> <h3> <strong>A little bit more about me...</strong> </h3>
+<h3> <strong>A little bit more about me...</strong> </h3>
+<img align="right" src="https://media.giphy.com/media/C3kuUBZHNYOje/giphy.gif" width="400">
 
 **🔭 I’m currently working on:**
 - Backend Systems built on Node + Express.
