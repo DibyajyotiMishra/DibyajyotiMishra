@@ -1,5 +1,5 @@
 ### <img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" width="400"> <h1>I'm Dibyajyoti Mishra. Hope you're doin' great. ✌</h1> 
-<h2> Freelancer | Student</h2>
+<h2> <i>Freelancer <img src="https://media.giphy.com/media/giQlSKorz22UxagNgk/giphy.gif" width="70"> | Student <img src="<img src="https://media.giphy.com/media/giQlSKorz22UxagNgk/giphy.gif" width="70">" width="70"></i></h2>
 
 <h3>Thank You so much for finding time to visit my profile <img src="https://media.giphy.com/media/3o6YgeW2KCMkubUVos/giphy.gif" width="100"></h3>
 A self-taught programmer, I love helping others in clearing off their bugs.
@@ -11,7 +11,7 @@ has a handful of projects to showcase in portfolio whose work is still on progre
 
 I am a CS undergrad and love to spend quality time in sharpening my skills.
 
-<h3><b>Time for some FAQs:</b> <img src="https://media.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif" width="100"> </h3>
+<h3><b>FAQs:</b> <img src="https://media.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif" width="100"> </h3>
 
 - **What I Do?**
 <img align="right" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="300">
