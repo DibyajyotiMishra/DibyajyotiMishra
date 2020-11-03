@@ -2,7 +2,7 @@
 <h2><img src="https://media.giphy.com/media/3o6YgeW2KCMkubUVos/giphy.gif" width="150"> Thank You so much for finding time to visit my profile <img src="https://media.giphy.com/media/3o6YgeW2KCMkubUVos/giphy.gif" width="150"> </h2>
 
 
-<h3>Time for some FAQs <img src="https://media.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif" width="100"> </h3>
+<h3><b>Time for some FAQs</b> <img src="https://media.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif" width="100"> </h3>
 
 ```python
 myWork=["web developer","mobile application developer,"UI/UX designer"]
