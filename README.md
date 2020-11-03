@@ -21,6 +21,10 @@ for i in myWork:
   print(i) 
  ```
  
+<br/>
+<br/>
+<br/>
+
 - **Tech I am well-versed at**
 <img align="left" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 <br/> 
