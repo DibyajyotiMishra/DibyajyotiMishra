@@ -2,7 +2,7 @@
 <h2> <i><b>Freelancer</b> | <i><b>Student</b></i> </h2>
 
 <h3>Thank You so much for finding time to visit my profile <img src="https://media.giphy.com/media/3o6YgeW2KCMkubUVos/giphy.gif" width="100"></h3>
-<div align=”center”> 
+<div align= "center"> 
 A self-taught programmer, I love helping others in clearing off their bugs.
 <br/>
 **P.S.: I do ask people whenever I fail to debug some codes**. 😬
@@ -11,6 +11,7 @@ I have been <strong>freelancing</strong> for over a year now, starting off in ea
 has a handful of projects to showcase in portfolio whose work is still on progress.
 
 I am a CS undergrad and love to spend quality time in sharpening my skills.
+
 </div>
 <h3><b>FAQs:</b> <img src="https://media.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif" width="100"> </h3>
 
