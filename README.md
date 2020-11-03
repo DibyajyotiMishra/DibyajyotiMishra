@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" width="400"> <h1>I'm Dibyajyoti Mishra. Hope you're doin' great. ✌</h1> 
 <h2> <i><b>Freelancer</b> | <i><b>Student</b></i> </h2>
 
-<h3>Thank You so much for finding time to visit my profile <img src="https://media.giphy.com/media/3o6YgeW2KCMkubUVos/giphy.gif" width="100"></h3>
+<h3 align ="center">Thank You so much for finding time to visit my profile <img src="https://media.giphy.com/media/3o6YgeW2KCMkubUVos/giphy.gif" width="100"></h3>
 <div align= "center"> 
 A self-taught programmer, I love helping others in clearing off their bugs.
 <br/>
