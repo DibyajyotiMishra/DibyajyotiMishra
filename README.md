@@ -8,7 +8,23 @@
 <br/>
 
 ```python
-myWork=["web developer","mobile application developer,"UI/UX designer"]
+mySkills=["web developer","mobile application developer,"UI/UX designer"]
 for i in myWork:
   print(i) 
  ```
+ 
+**Tech I am well-versed at**
+<br/> 
+
+```javascript
+const tech = {
+  "web frameworks": ["react js", "node js", "express js", "bootstrap", "django", "gatsby js"],
+  "mobile frameworks": "flutter",
+  "design tools": ["adobe xd", "adobe illustrator"],
+  "programming languages": ["python", "javascript", "typescript", "dart"],
+  "databases": {
+      "sql":["MySQL", "PogstreSQL"],
+      "no-sql":["MongoDB","Firebase Database"]
+  }
+}
+```
