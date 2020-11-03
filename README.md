@@ -16,7 +16,6 @@
 
 <img align="left" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="300">
 I am a <strong>full stack developer specialized at MERN tech stack and Flutter</strong>. I also do some part-time designing- <strong>UI/UX designing</strong>.. ✍ 
-
 I also spend a lot of time teaching myself newer tech and love to experiment by building different UIs.
 
 😄 Pronouns: **He/Him**
