@@ -9,11 +9,10 @@ I have been <strong>freelancing</strong> for over a year now, starting off in ea
 
 I am a CS undergrad and love to spend quality time in sharpening my skills.
 
-<img align="right" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="450">
-
 <h3><b>Time for some FAQs:</b> <img src="https://media.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif" width="100"> </h3>
 
 - **What I Do?**
+<img align="right" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif">
 <br/>
 
 ```python
