@@ -10,10 +10,8 @@
 <a href="mailto:dibyajyotimishra14@gmail.com"><img src="https://economictimes.indiatimes.com/photo/68666283.cms" width="50" height="60"> <a>
  <br/>
  <br/>
- <div class="row">
-  <div class="col-3"></div>
-  <div class="col-6">
- <h3> Thanks for finding time to visit my profile. 🙏 </h3>
+ 
+ <h3> Thanks for finding time to visit my profile. <img src="https://media.giphy.com/media/3o6YgeW2KCMkubUVos/giphy.gif" width="100"> </h3> 
 <br/>
 I am a <strong>full stack developer specialized at MERN tech stack and Flutter</strong>. I also do some part-time designing- <strong>UI/UX designing</strong>.. ✍ 
 
@@ -29,9 +27,6 @@ A self-taught programmer, I love helping others in clearing off their bugs.
 I have been <strong>freelancing</strong> for over a year now, starting off in early 2019s and has a handful of projects to showcase in portfolio whose work is still on progress.
 
 I am a CS undergrad and love to spend quality time in sharpening my skills.
-</div>
-<div class="col-3"></div>
-</div>
 <br/>
 <br/>
 <br/>
