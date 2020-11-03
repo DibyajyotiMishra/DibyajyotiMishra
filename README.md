@@ -1,6 +1,15 @@
 ### <img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" width="400"> <h1>I'm Dibyajyoti Mishra.</h1> 
 <h2><img src="https://media.giphy.com/media/3o6YgeW2KCMkubUVos/giphy.gif" width="150"> Thank You so much for finding time to visit my profile <img src="https://media.giphy.com/media/3o6YgeW2KCMkubUVos/giphy.gif" width="150"> </h2>
 
+A self-taught programmer, I love helping others in clearing off their bugs.
+<br/>
+**P.S.: I do ask people whenever I fail to debug some codes**. 😬
+
+I have been <strong>freelancing</strong> for over a year now, starting off in early 2019s and has a handful of projects to showcase in portfolio whose work is still on progress.
+
+I am a CS undergrad and love to spend quality time in sharpening my skills.
+
+<img align="right" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="450">
 
 <h3><b>Time for some FAQs:</b> <img src="https://media.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif" width="100"> </h3>
 
