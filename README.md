@@ -8,7 +8,7 @@
   
 **P.S.: I do ask people whenever I fail to debug some codes**. 😬
 
-I have been <strong>freelancing</strong> for over a year now, starting off in early 2019s and <br/>
+I have been <strong>freelancing</strong> with my friend and partner <a href=""> K.V. Balaji </a> for over a year now, starting off in early 2019s and <br/>
 has a handful of projects to showcase in portfolio whose work is still on progress.
 
 I am a CS undergrad and love to spend quality time in sharpening my skills.
@@ -65,3 +65,12 @@ void main() {
     }
   }
 ```
+
+<br/>
+
+**I love talking to diffrerent people. So, if you feel like chit-chatting with me; Drop a 'Hi' at my mailbox,linkedIn or instagram. I will be very happy to connect with you.**
+Link to them are available in the begining of the file. 
+<br/> 
+**So, swipe up !!!**
+
+<img src="https://media.giphy.com/media/1gCRLZBWo2w4Jc66DT/giphy.gif" height="150" width="175">
