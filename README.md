@@ -1,5 +1,12 @@
 ### <img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" width="400"> <h1>I'm Dibyajyoti Mishra. Hope you're doin' great. ✌</h1> 
 <h2> <i><b>Freelancer</b> | <i><b>Student</b></i> </h2>
+  
+  <br/>
+<a href="https://www.instagram.com/_p.r.i.n.c.e.m.i.s.h.r.a_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="50"> <a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dibyajyoti-mishra-a795b71a3/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" width="50"> <a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:dibyajyotimishra14@gmail.com"><img src="https://economictimes.indiatimes.com/photo/68666283.cms" width="50" height="60"> <a>
+ <br/>
+ <br/>
 
 <h3 align ="center">Thank You so much for finding time to visit my profile <img src="https://media.giphy.com/media/3o6YgeW2KCMkubUVos/giphy.gif" width="100"></h3>
 <div align= "center"> 
