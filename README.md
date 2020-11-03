@@ -23,6 +23,7 @@ for i in myWork:
  ```
  
 - **Tech I am well-versed at**
+<img align="left" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 <br/> 
 
 ```javascript
