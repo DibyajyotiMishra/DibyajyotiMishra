@@ -4,6 +4,5 @@
 print("What I do?")
 myWork=["web developer","mobile application developer,"UI/UX designer"]
 for i in myWork:
-  print(i)
- 
+  print(i) 
  ```
