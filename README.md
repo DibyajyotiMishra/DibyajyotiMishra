@@ -1,5 +1,5 @@
 
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media.giphy.com/media/l0FF56cexcW2JAXCJj/giphy.gif" height="400" width="400" border-radius="50%">
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media.giphy.com/media/l0FF56cexcW2JAXCJj/giphy.gif" height="400" width="400" border-radius="50% !important">
 
 <h2>How you doin'? Hope you're doin' great. ✌ </h2>
 
