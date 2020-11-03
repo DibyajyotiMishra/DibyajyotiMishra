@@ -34,9 +34,9 @@ const tech = {
 ```dart
 import 'dart:convert';
 void main() {
-var learning = ["react-native", "scss", "kotlin", "swift", "CI","Next JS" ];
-for(var i = 1; i<= learning.length; i++){
-    print(learning[i]);
-}
-}
+  var learning = ["react-native", "scss", "kotlin", "swift", "CI","Next JS" ];
+  for(var i = 1; i<= learning.length; i++){
+      print(learning[i]);
+    }
+  }
 ```
