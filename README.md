@@ -1,5 +1,5 @@
 ### <img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" width="400"> <h1>I'm Dibyajyoti Mishra. Hope you're doin' great. ✌</h1> 
-<h2> <i>Freelancer <img src="https://media.giphy.com/media/giQlSKorz22UxagNgk/giphy.gif" width="70"> | Student <img src="<img src="https://media.giphy.com/media/giQlSKorz22UxagNgk/giphy.gif" width="70">" width="70"></i></h2>
+<i>Freelancer <img src="https://media.giphy.com/media/giQlSKorz22UxagNgk/giphy.gif" width="70"> | Student <img src="<img src="https://media.giphy.com/media/giQlSKorz22UxagNgk/giphy.gif" width="70"> width="70"></i>
 
 <h3>Thank You so much for finding time to visit my profile <img src="https://media.giphy.com/media/3o6YgeW2KCMkubUVos/giphy.gif" width="100"></h3>
 A self-taught programmer, I love helping others in clearing off their bugs.
