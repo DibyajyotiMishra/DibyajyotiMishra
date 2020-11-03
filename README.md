@@ -13,6 +13,8 @@
  
  <h3> Thanks for finding time to visit my profile. <img src="https://media.giphy.com/media/3o6YgeW2KCMkubUVos/giphy.gif" width="100"> </h3> 
 <br/>
+
+<img align="right" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" with="250">
 I am a <strong>full stack developer specialized at MERN tech stack and Flutter</strong>. I also do some part-time designing- <strong>UI/UX designing</strong>.. ✍ 
 
 I also spend a lot of time teaching myself newer tech and love to experiment by building different UIs.
