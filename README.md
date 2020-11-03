@@ -22,6 +22,7 @@ I also spend a lot of time teaching myself newer tech and love to experiment by 
 😄 Pronouns: **He/Him**
 <br/>
 <br/>
+<img align="right" src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width="100">
 A self-taught programmer, I love helping others in clearing off their bugs.
 <br/>
 **P.S.: I do ask people whenever I fail to debug some codes**. 😬
