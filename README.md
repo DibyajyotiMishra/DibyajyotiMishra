@@ -2,7 +2,7 @@
 <h2><img src="https://media.giphy.com/media/3o6YgeW2KCMkubUVos/giphy.gif" width="150"> Thank You so much for finding time to visit my profile <img src="https://media.giphy.com/media/3o6YgeW2KCMkubUVos/giphy.gif" width="150"> </h2>
 
 
-<h3><b>Time for some FAQs</b> <img src="https://media.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif" width="100"> </h3>
+<h3><b>Time for some FAQs:</b> <img src="https://media.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif" width="100"> </h3>
 
 - **What I Do?**
 <br/>
@@ -13,12 +13,12 @@ for i in myWork:
   print(i) 
  ```
  
-**Tech I am well-versed at**
+- **Tech I am well-versed at**
 <br/> 
 
 ```javascript
 const tech = {
-  "web frameworks": ["react js", "node js", "express js", "bootstrap", "django", "gatsby js"],
+  "web frameworks": ["react js", "node js", "express js", "bootstrap", "gatsby js"],
   "mobile frameworks": "flutter",
   "design tools": ["adobe xd", "adobe illustrator"],
   "programming languages": ["python", "javascript", "typescript", "dart"],
@@ -26,5 +26,17 @@ const tech = {
       "sql":["MySQL", "PogstreSQL"],
       "no-sql":["MongoDB","Firebase Database"]
   }
+}
+```
+
+- **Tech I am/will be learning**
+
+```dart
+import 'dart:convert';
+void main() {
+var learning = ["react-native", "scss", "kotlin", "swift", "CI","Next JS" ];
+for(var i = 1; i<= learning.length; i++){
+    print(learning[i]);
+}
 }
 ```
