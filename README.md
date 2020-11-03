@@ -46,6 +46,7 @@ const tech = {
 <br/>
 
 - **Tech I am/will be learning**
+<img align="left"src="https://media.giphy.com/media/x2YhXJb6E2akg/giphy.gif">
 
 ```dart
 import 'dart:convert';
