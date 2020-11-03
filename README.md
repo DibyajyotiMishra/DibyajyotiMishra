@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" width="400"> <h1>I'm Dibyajyoti Mishra. Hope you're doin' great. ✌</h1> 
+### <div align= "center"><img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" width="400"></div> <h1>I'm Dibyajyoti Mishra. Hope you're doin' great. ✌</h1> 
 <h2> <i><b>Freelancer</b> | <i><b>Student</b></i> </h2>
 
 <a href="https://www.instagram.com/_p.r.i.n.c.e.m.i.s.h.r.a_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="50"> <a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
