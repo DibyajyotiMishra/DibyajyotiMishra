@@ -75,10 +75,8 @@ void main() {
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<div align= "center"> 
+<div align= "center">
+ 
 **I love talking to diffrerent people. So, if you feel like chit-chatting with me; Drop a 'Hi' at my mailbox,linkedIn or instagram. I will be very happy to connect with you.**
 Link to them are available in the begining of this file. 
 <br/> 
