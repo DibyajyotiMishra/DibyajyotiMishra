@@ -3,7 +3,7 @@
 
 <h3 align ="center">Thank You so much for finding time to visit my profile <img src="https://media.giphy.com/media/3o6YgeW2KCMkubUVos/giphy.gif" width="100"></h3>
 <div align= "center"> 
-A self-taught programmer, I love helping others in clearing off their bugs.
+<i>So here I am... <br/> A self-taught programmer, I love helping others in clearing off their bugs.
 <br/>
 **P.S.: I do ask people whenever I fail to debug some codes**. 😬
 
@@ -12,7 +12,10 @@ has a handful of projects to showcase in portfolio whose work is still on progre
 
 I am a CS undergrad and love to spend quality time in sharpening my skills.
 
-</div>
+</i></div>
+<br/>
+<br/>
+<br/>
 <h3><b>FAQs:</b> <img src="https://media.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif" width="100"> </h3>
 
 - **What I Do?**
