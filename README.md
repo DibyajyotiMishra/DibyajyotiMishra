@@ -80,7 +80,7 @@ void main() {
 <div align= "center">
  
 **I love talking to diffrerent people. So, if you feel like chit-chatting with me; Drop a 'Hi' at my mailbox,linkedIn or instagram. I will be very happy to connect with you.**
-Link to them are available in the begining of this file. 
+Link to them are available in the begining of this page. 
 <br/> 
 **So, swipe up !!!**
 
