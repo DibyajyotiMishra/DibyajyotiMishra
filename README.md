@@ -14,7 +14,7 @@
  <h3> Thanks for finding time to visit my profile. <img src="https://media.giphy.com/media/3o6YgeW2KCMkubUVos/giphy.gif" width="100"> </h3> 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" with="250">
+<img align="right" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" with="150">
 I am a <strong>full stack developer specialized at MERN tech stack and Flutter</strong>. I also do some part-time designing- <strong>UI/UX designing</strong>.. ✍ 
 
 I also spend a lot of time teaching myself newer tech and love to experiment by building different UIs.
@@ -32,7 +32,7 @@ I am a CS undergrad and love to spend quality time in sharpening my skills.
 <br/>
 <br/>
 <br/>
-<img align="left" src="https://media.giphy.com/media/C3kuUBZHNYOje/giphy.gif" width="100">
+<img align="right" src="https://media.giphy.com/media/C3kuUBZHNYOje/giphy.gif" width="200">
 <h3> <strong>A little bit more about me...</strong> </h3>
 
 **🔭 I’m currently working on:**
