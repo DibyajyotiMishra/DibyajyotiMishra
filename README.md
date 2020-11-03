@@ -6,7 +6,7 @@ A self-taught programmer, I love helping others in clearing off their bugs.
 <br/>
 **P.S.: I do ask people whenever I fail to debug some codes**. 😬
 
-I have been <strong>freelancing</strong> for over a year now, starting off in early 2019s and 
+I have been <strong>freelancing</strong> for over a year now, starting off in early 2019s and <br/>
 has a handful of projects to showcase in portfolio whose work is still on progress.
 
 I am a CS undergrad and love to spend quality time in sharpening my skills.
