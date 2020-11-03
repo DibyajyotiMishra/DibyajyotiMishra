@@ -5,6 +5,7 @@
 <div align= "center"> 
 <i>So here I am... <br/> A self-taught programmer, I love helping others in clearing off their bugs.
 <br/>
+  
 **P.S.: I do ask people whenever I fail to debug some codes**. 😬
 
 I have been <strong>freelancing</strong> for over a year now, starting off in early 2019s and <br/>
