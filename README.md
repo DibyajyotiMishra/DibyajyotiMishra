@@ -18,8 +18,8 @@
 I am a <strong>full stack developer specialized at MERN tech stack and Flutter</strong>. I also do some part-time designing- <strong>UI/UX designing</strong>.. ✍ 
 I also spend a lot of time teaching myself newer tech and love to experiment by building different UIs.
 
+
 😄 Pronouns: **He/Him**
-<br/>
 <br/>
 
 A self-taught programmer, I love helping others in clearing off their bugs.
