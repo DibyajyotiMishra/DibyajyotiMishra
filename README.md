@@ -31,7 +31,7 @@ I am a CS undergrad and love to spend quality time in sharpening my skills.
 
 ```python
 mySkills=["web developer","mobile application developer,"UI/UX designer"]
-for i in myWork:
+for i in mySkills:
   print(i) 
  ```
  
