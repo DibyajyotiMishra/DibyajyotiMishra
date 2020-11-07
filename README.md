@@ -50,7 +50,7 @@ const tech = {
   "design tools": ["adobe xd", "adobe illustrator"],
   "programming languages": ["python", "javascript", "typescript", "dart"],
   "databases": {
-      "sql":["MySQL", "PogstreSQL"],
+      "sql":["MySQL", "PostgreSQL", "SQLite"],
       "no-sql":["MongoDB","Firebase Database"]
   }
 }
