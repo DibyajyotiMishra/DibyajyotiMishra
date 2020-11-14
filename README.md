@@ -46,7 +46,7 @@ for i in mySkills:
 ```javascript
 const tech = {
   "web frameworks": ["react js", "node js", "express js", "bootstrap", "gatsby js"],
-  "mobile frameworks": "flutter",
+  "mobile frameworks": "flutter","react-native"
   "design tools": ["adobe xd", "adobe illustrator"],
   "programming languages": ["python", "javascript", "typescript", "dart"],
   "databases": {
@@ -65,7 +65,7 @@ const tech = {
 ```dart
 import 'dart:convert';
 void main() {
-  var learning = ["react-native", "scss", "kotlin", "swift", "CI","Next JS" ];
+  var learning = ["django", "scss", "kotlin", "swift", "CI","Next JS" ];
   for(var i = 1; i<= learning.length; i++){
       print(learning[i]);
     }
