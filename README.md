@@ -86,3 +86,5 @@ Link to them are available in the begining of this page.
 
 <img align= "center" src="https://media.giphy.com/media/1gCRLZBWo2w4Jc66DT/giphy.gif" height="150" width="175">
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DibyajyotiMishra)](https://github.com/anuraghazra/github-readme-stats)
