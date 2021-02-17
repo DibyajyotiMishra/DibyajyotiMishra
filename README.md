@@ -88,4 +88,4 @@ Link to them are available in the begining of this page.
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DibyajyotiMishra&count_private=true&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DibyajyotiMishra&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DibyajyotiMishra&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
