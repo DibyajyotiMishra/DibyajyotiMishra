@@ -48,7 +48,7 @@ const tech = {
   "web frameworks": ["react js", "node js", "express js", "bootstrap", "gatsby js"],
   "mobile frameworks": "flutter","react-native"
   "design tools": ["adobe xd", "adobe illustrator"],
-  "programming languages": ["python", "javascript", "typescript", "dart"],
+  "programming languages": ["python", "javascript", "java", "typescript", "dart"],
   "databases": {
       "sql":["MySQL", "PostgreSQL", "SQLite"],
       "no-sql":["MongoDB","Firebase Database"]
