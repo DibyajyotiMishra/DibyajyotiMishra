@@ -14,7 +14,7 @@
   
 **P.S.: I do ask people whenever I fail to debug some codes**. 😬
 
-I have been <strong>freelancing</strong> with my friend and partner <a href="https://github.com/Balaji-Kotni"> K.V. Balaji </a> for over a year now, starting off in early 2019s and <br/>
+I have been <strong>freelancing</strong> with my friend and partner <a href="https://github.com/Balaji-Kotni"> K.V. Balaji </a> for over a good amount of time now, starting off in early 2019s and <br/>
 has a handful of projects to showcase in portfolio whose work is still in progress.
 
 I am a CS undergrad and love to spend quality time in sharpening my skills.
