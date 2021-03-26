@@ -46,7 +46,7 @@ for i in mySkills:
 ```javascript
 const tech = {
   "web frameworks": ["react js", "node js", "express js", "bootstrap", "gatsby js"],
-  "mobile frameworks": "flutter","react-native"
+  "mobile frameworks": "flutter","react-native", "android"
   "design tools": ["adobe xd", "adobe illustrator"],
   "programming languages": ["python", "javascript", "java", "typescript", "dart"],
   "databases": {
