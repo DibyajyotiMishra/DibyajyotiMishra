@@ -93,7 +93,7 @@ Link to them are available in the begining of this page.
 <br/>
 <br/>
 
-[!(https://github-readme-stats.vercel.app/api?username=DibyajyotiMishra&count_private=true&show_icons=true&theme=flag-india&hide_border=true)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DibyajyotiMishra&count_private=true&show_icons=true&theme=flag-india&hide_border=true)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DibyajyotiMishra&langs_count=3&hide_border=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DibyajyotiMishra&langs_count=3&hide_border=true)
 
