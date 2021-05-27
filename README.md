@@ -51,7 +51,7 @@ const tech = {
   "programming languages": ["python", "javascript", "java", "typescript", "dart"],
   "databases": {
       "sql":["MySQL", "PostgreSQL", "SQLite"],
-      "no-sql":["MongoDB","Firebase Database"]
+      "no-sql":["MongoDB","Firestore"]
   }
 }
 ```
@@ -60,12 +60,13 @@ const tech = {
 <br/>
 
 - **Tech I am/will be learning**
-<img align="left" src="https://media.giphy.com/media/x2YhXJb6E2akg/giphy.gif" width="250">
+<img align="left" src="https://media.giphy.com/media/x2YhXJb6E2akg/giphy.gif" width="300">
+ <br/>
 
 ```dart
 import 'dart:convert';
 void main() {
-  var learning = ["django", "scss", "kotlin", "swift", "CI","Next JS" ];
+  var learning = ["django", "scss", "svelte", "fastify", "CI","Next JS" ];
   for(var i = 1; i<= learning.length; i++){
       print(learning[i]);
     }
