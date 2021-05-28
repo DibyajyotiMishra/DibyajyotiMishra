@@ -7,7 +7,7 @@
  <br/>
  <br/>
 
-<h3 align ="center">Thank You so much for finding time to visit my profile <img src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/14Vb.gif" width="100"></h3>
+<h3 align ="center">Thank You so much for finding time to visit my profile <img src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/14Vb.gif" width="80"></h3>
 <div align= "center"> 
 <i>So here I am... <br/> A self-taught programmer, I love helping others in clearing off their bugs.
 <br/>
@@ -23,10 +23,10 @@ I am a CS undergrad and love to spend quality time in sharpening my skills.
 <br/>
 <br/>
 <br/>
-<h3><b>FAQs:</b> <img src="https://media.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif" width="100"> </h3>
+<h3><b>FAQs:</b> <img src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/3MG4.gif" width="60"> </h3>
 
 - **What I Do?**
-<img align="right" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="300">
+<img align="right" src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/299r.gif" width="300">
 <br/>
 
 ```python
@@ -40,7 +40,7 @@ for i in mySkills:
 <br/>
 
 - **Tech I am well-versed at**
-<img align="left" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<img align="left" src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/UgSQ.gif">
 <br/> 
 
 ```javascript
@@ -60,7 +60,7 @@ const tech = {
 <br/>
 
 - **Tech I am/will be learning**
-<img align="left" src="https://media.giphy.com/media/x2YhXJb6E2akg/giphy.gif" width="300">
+<img align="left" src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/2qf3.gif" width="300">
  <br/>
  
 ```dart
@@ -85,7 +85,7 @@ Link to them are available in the begining of this page.
 <br/> 
 **So, swipe up !!!**
 
-<img align= "center" src="https://media.giphy.com/media/1gCRLZBWo2w4Jc66DT/giphy.gif" height="150" width="175">
+<img align= "center" src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/6fr.gif" height="150" width="175">
 </div>
 
 <br/>
@@ -94,7 +94,7 @@ Link to them are available in the begining of this page.
 <br/>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DibyajyotiMishra&count_private=true&show_icons=true&theme=flag-india&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DibyajyotiMishra&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DibyajyotiMishra&langs_count=3&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DibyajyotiMishra&langs_count=3&hide_border=true&theme=tokyonight)
 
