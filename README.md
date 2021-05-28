@@ -1,5 +1,5 @@
 ### <div align= "center"><img src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/4AIB.gif" width="100" height="150"></div> <h1>I'm Dibyajyoti Mishra. Hope you're doin' great. ✌</h1> 
-<h2> <i><b>Freelancer</b> | <i><b>Student</b></i> </h2>
+<h2> <i><b>Software Developer </b> | <i><b>Student</b></i> </h2>
 
 <a href="https://www.instagram.com/_p.r.i.n.c.e.m.i.s.h.r.a_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="50"> <a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dibyajyoti-mishra-a795b71a3/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" width="50"> <a> &nbsp;&nbsp;&nbsp;&nbsp;
