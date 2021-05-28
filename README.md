@@ -64,10 +64,9 @@ const tech = {
  <br/>
  
 ```dart
-import 'dart:convert';
-void main() {
-  var learning = ["django", "scss", "svelte", "fastify", "CI","Next JS" ];
-  for(var i = 1; i<= learning.length; i++){
+public void main() {
+  final learning = ["django", "scss", "svelte", "fastify", "CI","Next JS" ];
+  for(int i = 1; i<= learning.length; i++){
       print(learning[i]);
     }
   }
