@@ -40,7 +40,7 @@ for i in mySkills:
 <br/>
 
 - **Tech I am well-versed at**
-<img align="left" src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/UgSQ.gif" width="250">
+<img align="left" src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/UgSQ.gif" width="300">
 <br/> 
 
 ```javascript
