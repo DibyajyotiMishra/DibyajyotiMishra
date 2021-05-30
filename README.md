@@ -102,5 +102,5 @@ Link to them are available in the begining of this page.
 
 ![Anurag's GitHub stats](https://dibyajyotimishra-github-stats.vercel.app/api?username=DibyajyotiMishra&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Top Langs](https://dibyajyotimishra-github-stats.vercel.app/api/top-langs/?username=DibyajyotiMishra&langs_count=4&hide_border=true&theme=tokyonight)
+![Top Langs](https://dibyajyotimishra-github-stats.vercel.app/api/top-langs/?username=DibyajyotiMishra&langs_count=3&hide_border=true&theme=tokyonight)
 
