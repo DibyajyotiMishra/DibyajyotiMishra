@@ -62,7 +62,7 @@ const tech = {
 <br/>
 
 - **Tech I am/will be learning**
-<img align="left" src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/2qf3.gif" width="300">
+<img align="right" src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/2qf3.gif" width="300">
  <br/>
  
 ```dart
