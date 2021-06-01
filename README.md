@@ -69,7 +69,7 @@ const tech = {
  
 ```dart
 public void main() {
-  final learning = ["django", "scss", "svelte", "fastify", "CI","Next JS" ];
+  final learning = ["django", "scss", "svelte", "fastify", "Jenkins","Next JS" ];
   for(int i = 1; i<= learning.length; i++){
       print(learning[i]);
     }
