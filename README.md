@@ -18,7 +18,7 @@
 I have been <strong>freelancing</strong> with my friend and partner <a href="https://github.com/Balaji-Kotni"> K.V. Balaji </a> for over a good amount of time now, starting off in early 2019s and <br/>
 has a handful of projects to showcase in portfolio whose work is still in progress.
 
-I am a CS undergrad and love to spend quality time in sharpening my skills.
+I am a CS undergrad and love to spend quality time in sharpening my skills. I am open to new challenges and collaborations.
 
 </i></div>
 <br/>
