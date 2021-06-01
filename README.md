@@ -1,10 +1,10 @@
 ### <div align= "center"><img src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/4AIB.gif" width="100" height="150"></div> <h1>I'm Dibyajyoti Mishra. Hope you're doin' great. ✌</h1> 
 <h2> <i><b>Software Developer </b> | <i><b>Student</b></i> </h2>
 
-<a href="https://www.instagram.com/_p.r.i.n.c.e.m.i.s.h.r.a_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="50"> <a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/dibyajyoti-mishra-a795b71a3/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" width="50"> <a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:dibyajyotimishra14@gmail.com"><img src="https://economictimes.indiatimes.com/photo/68666283.cms" width="60" height="60"> <a>
-<a href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+<a href="https://www.instagram.com/_p.r.i.n.c.e.m.i.s.h.r.a_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/dibyajyoti-mishra-a795b71a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="mailto:dibyajyotimishra14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://codeologydev.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
  <br/>
  <br/>
 
