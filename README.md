@@ -5,8 +5,7 @@
 <a href="https://www.linkedin.com/in/dibyajyoti-mishra-a795b71a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="mailto:dibyajyotimishra14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://codeologydev.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
- ![](https://komarev.com/ghpvc/?username=DibyajyotiMishra)
- 
+ <img height="28" width="120" src="https://komarev.com/ghpvc/?username=DibyajyotiMishra&style=plastic">
  <br/>
  <br/>
 
