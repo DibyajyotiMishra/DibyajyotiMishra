@@ -6,6 +6,7 @@
 <a href="mailto:dibyajyotimishra14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://codeologydev.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
  ![](https://komarev.com/ghpvc/?username=DibyajyotiMishra)
+ 
  <br/>
  <br/>
 
@@ -114,4 +115,7 @@ Link to them are available in the begining of this page.
 <br/>
 <br/>
  
-<img alt= "stats card" height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=DibyajyotiMishra&theme=tokyonight">
+<img alt= "stats card" height="140" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=DibyajyotiMishra&theme=tokyonight">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+<img alt= "stats card" height="140" width="400" src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/output/github-contribution-grid-snake.gif">
