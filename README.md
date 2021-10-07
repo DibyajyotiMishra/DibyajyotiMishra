@@ -94,15 +94,24 @@ Link to them are available in the begining of this page.
 **So, swipe up !!!**
 
 <img align= "center" src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/6fr.gif" height="150" width="175">
+ 
 </div>
-
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
+ 
+ <strong>Let's Look at some statistics 😜 : </strong>
+ 
+ 
 
 ![Anurag's GitHub stats](https://dibyajyotimishra-github-stats.vercel.app/api?username=DibyajyotiMishra&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Langs](https://dibyajyotimishra-github-stats.vercel.app/api/top-langs/?username=DibyajyotiMishra&langs_count=3&hide_border=true&theme=tokyonight)
-
+ 
+<br/>
+<br/>
+<br/>
+ 
+<img alt= "stats card" height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=DibyajyotiMishra&theme=tokyonight">
