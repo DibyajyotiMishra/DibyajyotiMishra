@@ -117,4 +117,4 @@ Link to them are available in the begining of this page.
 <img alt= "stats card" height="145" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=DibyajyotiMishra&hide_border=true&theme=tokyonight">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
-<img alt= "stats card" height="140" width="400" src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/output/github-contribution-grid-snake.gif">
+<img alt= "stats card" height="140" width="300" src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/output/github-contribution-grid-snake.gif">
