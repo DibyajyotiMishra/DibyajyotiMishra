@@ -31,9 +31,9 @@
 ## Social Media Handles:
 
 <div>
- <img src="https://img.shields.io/twitter/follow/dibyajyotim_?style=social" />
- <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" />
- <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+ <a href="https://twitter.com/dibyajyotim_" ><img src="https://img.shields.io/twitter/follow/dibyajyotim_?style=social" /></a>
+ <a href="https://dibyajyoti.hashnode.dev/" ><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" /></a>
+ <a href="mailto:dibyajyotimishra14@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/dibyajyotim/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 
 </div>
