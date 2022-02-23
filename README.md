@@ -8,7 +8,6 @@
  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-orange" alt="role" />
  <img src="https://img.shields.io/badge/Most%20Used%20Library-React%2C%20React%20Native-5A20CB" alt="misc" />
  <img src="https://img.shields.io/badge/Learning-Circle%20CI-white" alt="currently learning" />
- <img src="https://img.shields.io/badge/Status-Building%20something%20exciting-%2303C6C7" />
  </p>
  
 
@@ -114,5 +113,5 @@ Dart                     2 repos             ░░░░░░░░░░░�
  <a href="https://dibyajyoti.hashnode.dev/" ><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" /></a>
  <a href="mailto:dibyajyotimishra14@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
  <a href="https://www.linkedin.com/in/dibyajyotim/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-
+ <a href="https://https://github.com/DibyajyotiMishra"><img src="https://img.shields.io/badge/Status-Creating%20something%20exciting-%2303C6C7" /></a>
 </div>
