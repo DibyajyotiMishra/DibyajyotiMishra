@@ -29,19 +29,7 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-525%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 55 Contributions in the Year 2022
- > 
-> 📦 95.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 40 Public Repositories 
- > 
-> 🔑 38 Private Repositories  
- > 
+ 
 **I'm a Night 🦉** 
 
 ```text
