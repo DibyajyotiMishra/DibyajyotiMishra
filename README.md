@@ -38,10 +38,6 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 40 Public Repositories 
- > 
-> 🔑 38 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
