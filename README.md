@@ -36,7 +36,7 @@ Properties   11 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 </div>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=DibyajyotiMishra&theme=react-dark)
+![github graph](https://activity-graph.herokuapp.com/graph?username=DibyajyotiMishra&line=207398&bg_color=1d2433&area_color=0E1117&hide_border=true&color=5DA3FA&point=5DA3FA&radius=5)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Have+A+Great+Day!!!&center=true&color="5A20CB")](https://github.com/DibyajyotiMishra)
