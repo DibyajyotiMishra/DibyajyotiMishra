@@ -12,10 +12,12 @@
  
  
  <div align="center">
-    <img align="right" height="430" width="450" src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/2qf3.gif" />
+    <img align="center" height="430" width="450" src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/2qf3.gif" />
 <!--    <img align="right" height="230" width="250" src="https://github.com/DibyajyotiMishra/DibyajyotiMishra/blob/main/2qf3.gif" /> -->
  </div>
  
+
+### My Stats:
 
 <div align='left'> 
    <img alt= "stats card" src="https://dibyajyotimishra-github-stats.vercel.app/api?username=DibyajyotiMishra&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
