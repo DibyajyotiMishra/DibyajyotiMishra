@@ -7,7 +7,7 @@
  <img src="https://komarev.com/ghpvc/?username=DibyajyotiMishra&label=Visitors'%20Count&color=6EC72D&style=flat" alt="DibyajyotiMishra" /> 
  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-orange" alt="role" />
  <img src="https://img.shields.io/badge/Most%20Used%20Library-React%2C%20React%20Native-5A20CB" alt="misc" />
- <img src="https://img.shields.io/badge/Learning-Circle%20CI-white" alt="currently learning" />
+ <img src="https://img.shields.io/badge/Learning-Spring%20Boot-white" alt="currently learning" />
  </p>
  
  
