@@ -13,12 +13,8 @@
 
 <h2>My Recent Blogs</h2>
    
-   <a href="https://github-readme-medium-recent-article.vercel.app/medium/@dibyajyotimishra/0">
-      <img src="https://github-readme-medium-recent-article.vercel.app/medium/@dibyajyotimishra/0" />
-   </a>
-   <a href="https://github-readme-medium-recent-article.vercel.app/medium/@dibyajyotimishra/0">
-      <img src="https://github-readme-medium-recent-article.vercel.app/medium/@dibyajyotimishra/1" />
-   </a>
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dibyajyotimishra/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dibyajyotimishra/0" alt="Recent Article 0"></a>
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dibyajyotimishra/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dibyajyotimishra/1" alt="Recent Article 1"></a> <br>
 
 <details><summary>Other Details</summary>
 <br />
@@ -57,14 +53,21 @@ No Activity tracked this Week
 </details>
 
 <br />
-<br />
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=DibyajyotiMishra&line=207398&bg_color=1d2433&area_color=0E1117&hide_border=true&color=5DA3FA&point=5DA3FA&radius=5)
 
 <br />
-<br />
 
-<p align="left">
-<img src="https://profile-counter.glitch.me/%7BDibyajyotiMishraGitHub-Profile%7D/count.svg" />
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Have+A+Great+Day!!!&center=true&color=5A20CB" />
 </p>
 
+## Social Media Handles:
+
+<div>
+ <a href="https://twitter.com/dibyajyotim_" ><img src="https://img.shields.io/twitter/follow/dibyajyotim_?style=social" /></a>
+ <a href="https://dibyajyoti.hashnode.dev/" ><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" /></a>
+ <a href="mailto:dibyajyotimishra14@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/dibyajyotim/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+ <a href="https://github.com/DibyajyotiMishra"><img src="https://img.shields.io/badge/Status-Creating%20something%20exciting-%2303C6C7" /></a>
+</div>
