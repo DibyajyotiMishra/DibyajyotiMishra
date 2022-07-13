@@ -58,6 +58,13 @@ No Activity tracked this Week
 
 <br />
 
+<h4>Today's Motivation</h4>
+<p align="center">
+   <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&layout=default&font=Redressed&quoteCategory=motivational" />
+</p>
+
+<br />
+
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?lines=Have+A+Great+Day!!!&center=true&color=5A20CB" />
 </p>
