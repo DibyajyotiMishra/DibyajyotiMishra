@@ -1,7 +1,7 @@
 <p align="center">
    <img src="./images/profile-cover.png" />
 </p>
-<h1>Dibyajyoti Mishra, this side.</h1>
+<h1>Hi 👋, Dibyajyoti Mishra, this side.</h1>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <h2>Thanks for stopping by. <img src="http://clipart-library.com/img/1447868.gif" width="45px" height="45px" /></h2>
 
@@ -63,7 +63,7 @@ Bash         1 min           ░░░░░░░░░░░░░░░░░
 
 <h4>Today's Motivation</h4>
 <p align="center">
-   <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&layout=default&font=Redressed&quoteCategory=motivational" />
+   <img width="75%" src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&layout=default&font=Redressed&quoteCategory=motivational" />
 </p>
 
 <br />
