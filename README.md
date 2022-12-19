@@ -54,14 +54,14 @@ No Activity tracked this Week
 
 <br />
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=DibyajyotiMishra&line=207398&bg_color=1d2433&area_color=0E1117&hide_border=true&color=5DA3FA&point=5DA3FA&radius=5)
+![https://activity-graph.herokuapp.com/graph](https://github-readme-activity-graph.cyclic.app/graph?username=DibyajyotiMishra&line=207398&bg_color=1d2433&area_color=0E1117&hide_border=true&color=5DA3FA&point=5DA3FA&radius=5)
 
 <br />
 
-<h4>Today's Motivation</h4>
+<!-- <h4>Today's Motivation</h4>
 <p align="center">
    <img width="75%" src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&layout=default&font=Redressed&quoteCategory=motivational" />
-</p>
+</p> -->
 
 <br />
 
