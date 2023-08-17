@@ -54,7 +54,7 @@ No Activity tracked this Week
 
 <br />
 
-![https://activity-graph.herokuapp.com/graph](https://github-readme-activity-graph.cyclic.app/graph?username=DibyajyotiMishra&line=207398&bg_color=1d2433&area_color=0E1117&hide_border=true&color=5DA3FA&point=5DA3FA&radius=5)
+<!-- ![https://activity-graph.herokuapp.com/graph](https://github-readme-activity-graph.cyclic.app/graph?username=DibyajyotiMishra&line=207398&bg_color=1d2433&area_color=0E1117&hide_border=true&color=5DA3FA&point=5DA3FA&radius=5) -->
 
 <br />
 
